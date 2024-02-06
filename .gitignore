@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+
+# Secrets
+.env
+*secrets*
+
+# SQLite files
+*.db*
+*.settings
+
+venv
+venv/
+
+.vscode
+.DS_Store
+.lh/
