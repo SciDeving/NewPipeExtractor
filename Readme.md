@@ -24,6 +24,8 @@ pipx install git+https://github.com/SciDeving/NewPipeExtractor.git
 
 4. Get your "channelId" from Youtube, copied from the "Share" button on Youtube channel profile page.
 
+5. Export database from [NewPipe](https://github.com/TeamNewPipe/NewPipe), Settings -> Content -> Export database,and send it to your PC.
+
 ### Executing program
 
 - Run the app
